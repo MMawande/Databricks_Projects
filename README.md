@@ -1,3 +1,4 @@
+[Azure+Databricks+Course+Slide+Deck+V4 (1).pdf](https://github.com/MMawande/Databricks_Projects/files/12051868/Azure%2BDatabricks%2BCourse%2BSlide%2BDeck%2BV4.1.pdf)
 # Databricks_Projects
 Azure Databricks For Data Engineers (Project on Formula 1 Racing![image](https://github.com/MMawande/Databricks_Projects/assets/39480947/55228673-ad2f-4196-82fd-7b9e50c88792)
  About this course
@@ -49,21 +50,5 @@ Will be doing a project on building a cloud data platform for reporting and doin
 	b. Spark (Python) -> We use PySpark to Ingest the source data into our Data Lake, during Ingestion we will deal with few types & complexities of data, we have separate sections for those a) - Data Ingestion 1, b) Data Ingestion 2, c) Data Ingestion 3, d) Transformation + filters + seggregations, e) Aggregations, & f) Incremental Load
 	
 	c. Spark(SQL) -> We have sections on - a) Temp Views and how to access them from PySpark, b) DDL ( creating databases, tables & views), c) DML (inserting data into tables, filters, joins & aggregations), d) Analysis sing Spark SQL, e) Incremental Load - Advanced topic on implementing different design patterns for  data loading in which we will implement  an incremental load pattern (this will be done both using PySpark & SparkSQL)
-	
-	
-
-
-
-
-	
-	
-
-
-
-
-
-
-
-
 
 ![image](https://github.com/MMawande/Databricks_Projects/assets/39480947/736ef461-7d92-40be-b7e1-25b5d33e80fc)
